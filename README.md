@@ -57,7 +57,6 @@
  - **04_geo_samples_numbered.csv**：GEO_accession,Run,sample_name,sample_name_indexed,sample_name_numbered（给同一种marker_stage不同样本进行编号）
 
 ## embryo_classifier.yml: 多分类模型所需要的环境
-Note: Notes_Embryo_Classifier.pdf & 周工作汇报-韩莹莹-11-20250808.pptx may be useful.
 
 
 
